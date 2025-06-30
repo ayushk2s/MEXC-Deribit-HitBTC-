@@ -52,7 +52,7 @@ A **multi-exchange Flutter-based trading platform** that showcases working imple
 ---
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/ayushk2s/MEXC-Deribit-HitBTC.git
+git clone https://github.com/ayushk2s/MEXC-Deribit-HitBTC-.git
 cd flutter-trader
 and just start you journey 💓
 
